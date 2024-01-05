@@ -57,7 +57,7 @@ millennial-scale temperature variability during the past eight glacial cycles.
 
 
 ADDITIONAL REFERENCES:
-FlÃ¼ckiger, J., E. Monnin, B. Stauffer, J. Schwander, T.F. Stocker, 
+Flückiger, J., E. Monnin, B. Stauffer, J. Schwander, T.F. Stocker, 
 J. Chappellaz, D. Raynaud, and J.-M. Barnola.  2002.  
 High resolution Holocene N2O ice core record and its relationship 
 with CH4 and CO2. 
@@ -66,11 +66,11 @@ Global Biogeochemical Cycles, Vol. 16, Number 1, March 2002.
 
 Loulergue, L., F. Parrenin, T. Blunier, J.-M. Barnola, R. Spahni, 
 A. Schilt, G. Raisbeck, and J. Chappellaz. 2007. 
-New constraints on the gas ageâ€“ice age difference along the
-EPICA ice cores, 0â€“50 kyr. 
-Climate of the Past, Vol. 3, Number 3, pp. 527â€“540.
+New constraints on the gas age–ice age difference along the
+EPICA ice cores, 0–50 kyr. 
+Climate of the Past, Vol. 3, Number 3, pp. 527–540.
 
-Monnin, E., A. IndermÃ¼hle, A. DÃ¤llenbach, J. FlÃ¼ckiger, B. Stauffer, 
+Monnin, E., A. Indermühle, A. Dällenbach, J. Flückiger, B. Stauffer, 
 T. F. Stocker, D. Raynaud, and J.-M. Barnola. 2001. 
 Atmospheric CO2 concentrations over the last glacial termination. 
 Science, Vol. 291, pp. 112-114.
@@ -82,7 +82,7 @@ B. Narcisi, J.-R. Petit, G. Raisbeck, D. Raynaud, U. Ruth,
 J. Schwander, M. Severi, R. Spahni, J. P. Steffensen, A. Svensson, 
 R. Udisti, C. Waelbroeck, and E. Wolff 2007. 
 The EDC3 chronology for the EPICA Dome C ice core. 
-Climate of the Past, Vol. 3, Number 3, pp. 485â€“497.
+Climate of the Past, Vol. 3, Number 3, pp. 485–497.
 
 Spahni, R. et al. 2003.
 The attenuation of fast atmospheric CH4 variations recorded in
@@ -90,7 +90,7 @@ polar ice cores.
 Geophysical Research Letters, Vol. 30, pp. 1571.
 
 Spahni, R., J. Chappellaz, T.F. Stocker, L. Loulergue, G. Hausammann, 
-K. Kawamura, J. FlÃ¼ckiger, J. Schwander, D. Raynaud, V. Masson-Delmotte, 
+K. Kawamura, J. Flückiger, J. Schwander, D. Raynaud, V. Masson-Delmotte, 
 and J. Jouzel.  2005. 
 Atmospheric methane and nitrous oxide of the late Pleistocene from 
 Antarctic ice cores.
@@ -123,10 +123,10 @@ Two standard gases (408 p.p.b.v. CH4, 1,050 p.p.b.v. CH4) were used at Bern
 and one (499 p.p.b.v. CH4) at LGGE, to calibrate the gas chromatographs. 
 The mean CH4 analytical uncertainty (1s) is 10 p.p.b.v.
 
-EPICA Dome C ice core location:  75Â°06'S, 123Â°21'E, 3233m above sea level  
+EPICA Dome C ice core location:  75°06'S, 123°21'E, 3233m above sea level  
 
 Parts of the EDC96 data are published in Monnin et al. (2001), 
-FlÃ¼ckiger et al.(2002), Spahni et al. (2003), and Spahni et al. (2005),  
+Flückiger et al.(2002), Spahni et al. (2003), and Spahni et al. (2005),  
 plus EDC99 data in Spahni et al. (2005). All the new data are published in 
 Loulergue et al. (2008).  The EDC3_gas_a age scale is detailed in 
 Loulergue et al. (2007) and is available on NOAA-NCDC database with ice 
@@ -151,7 +151,7 @@ Column 3: CH4 mean (ppbv)
 Column 4: 1-sigma uncertainty (ppbv)
 Column 5: Laboratory (b=Bern, g=Grenoble)
 
-Depth      Gas Age   CH4 mean   1s    Lab.
+Depth          Age   CH4 mean   1s    Lab.
 99.34           13     907      10      b
 102.45         126     784      10      g
 102.58         130     762      10      b
@@ -2255,3 +2255,4 @@ Depth      Gas Age   CH4 mean   1s    Lab.
 3189.43     797277     396      10      g
 3190.03     798417     458      10      g
 3190.53     799396     399      10      g
+
