@@ -28,7 +28,7 @@ Once opened you can select Restart Kernel and Run All from the Run or Kernel men
 * [NumPy](http://www.numpy.org/)
 * [Pandas](http://pandas.pydata.org/)
 * [Matplotlib](http://matplotlib.org/)
-* [Seaborn](https://seaborn.pydata.org/index.html#)
+* [SciPy](https://scipy.org/)
 * [xlrd](https://xlrd.readthedocs.io/en/latest/#)
 
 References used are located at the end of the notebook.
